@@ -1,0 +1,5 @@
+D:\Programming\COWTranslation\COWTranslation\bin\Debug\COWTranslation.dll
+D:\Programming\COWTranslation\COWTranslation\bin\Debug\COWTranslation.pdb
+D:\Programming\COWTranslation\COWTranslation\obj\Debug\COWTranslation.dll
+D:\Programming\COWTranslation\COWTranslation\obj\Debug\COWTranslation.pdb
+D:\Programming\COWTranslation\COWTranslation\obj\Debug\ResolveAssemblyReference.cache

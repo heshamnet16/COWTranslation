@@ -1,0 +1,13 @@
+D:\Programming\COWTranslation\Test\bin\Debug\Test.exe
+D:\Programming\COWTranslation\Test\bin\Debug\Test.pdb
+D:\Programming\COWTranslation\Test\obj\x86\Debug\Test.Form1.resources
+D:\Programming\COWTranslation\Test\obj\x86\Debug\Test.Properties.Resources.resources
+D:\Programming\COWTranslation\Test\obj\x86\Debug\Test.exe
+D:\Programming\COWTranslation\Test\obj\x86\Debug\Test.pdb
+D:\Programming\COWTranslation\Test\bin\Debug\COWTranslation.dll
+D:\Programming\COWTranslation\Test\bin\Debug\COWTranslation.pdb
+D:\Programming\COWTranslation\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\COWTranslation\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Programming\COWTranslation\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programming\COWTranslation\Test\obj\x86\Debug\Test.exe
+F:\Programming\COWTranslation\Test\obj\x86\Debug\Test.pdb

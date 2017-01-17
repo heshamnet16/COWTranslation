@@ -1,0 +1,5 @@
+F:\Programming\COWTranslation\COWTranslation\bin\Release\COWTranslation.dll
+F:\Programming\COWTranslation\COWTranslation\bin\Release\COWTranslation.pdb
+F:\Programming\COWTranslation\COWTranslation\obj\Release\COWTranslation.csprojResolveAssemblyReference.cache
+F:\Programming\COWTranslation\COWTranslation\obj\Release\COWTranslation.dll
+F:\Programming\COWTranslation\COWTranslation\obj\Release\COWTranslation.pdb

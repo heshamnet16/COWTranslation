@@ -1,0 +1,10 @@
+F:\Programming\COWTranslation\Test\bin\Release\Test.exe
+F:\Programming\COWTranslation\Test\bin\Release\Test.pdb
+F:\Programming\COWTranslation\Test\bin\Release\COWTranslation.dll
+F:\Programming\COWTranslation\Test\bin\Release\COWTranslation.pdb
+F:\Programming\COWTranslation\Test\obj\x86\Release\Test.csprojResolveAssemblyReference.cache
+F:\Programming\COWTranslation\Test\obj\x86\Release\Test.Form1.resources
+F:\Programming\COWTranslation\Test\obj\x86\Release\Test.Properties.Resources.resources
+F:\Programming\COWTranslation\Test\obj\x86\Release\Test.csproj.GenerateResource.Cache
+F:\Programming\COWTranslation\Test\obj\x86\Release\Test.exe
+F:\Programming\COWTranslation\Test\obj\x86\Release\Test.pdb
